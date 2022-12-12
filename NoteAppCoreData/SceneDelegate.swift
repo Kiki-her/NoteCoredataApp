@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  NoteAppCoreData
 //
-//  Created by 久島風音 on 2022/11/29.
+//  Created by Kiki on 2022/11/29.
 //
 
 import UIKit
